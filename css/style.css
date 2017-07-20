@@ -45,38 +45,38 @@
 
 .pos11 {
   margin: 0 1%;
-  background-image: url("../img/san-francisco.jpg");
-  background-position: center;
+  background: url("../img/san-francisco.jpg") center;
+  /*background-position: center;*/
 }
 
 .pos12 {
   margin: 0 1%;
-  background-image: url("../img/new-york.jpg");
-  background-position: center;
+  background: url("../img/new-york.jpg") center;
+  /*background-position: center;*/
 }
 
 .pos13 {
   margin: 0 1%;
-  background-image: url("../img/london.jpg");
-  background-position: center;
+  background: url("../img/london.jpg") center;
+  /*background-position: center;*/
 }
 
 .pos21 {
   margin: 0 1%;
-  background-image: url("../img/napa.jpg");
-  background-position: center;
+  background: url("../img/napa.jpg") center;
+  /*background-position: center;*/
 }
 
 .pos22 {
   margin: 0 1%;
-  background-image: url("../img/sonoma.jpg");
-  background-position: center;
+  background: url("../img/sonoma.jpg") center;
+  /*background-position: center;*/
 }
 
 .pos23 {
   margin: 0 1%;
-  background-image: url("../img/san-francisco-2.jpg");
-  background-position: center;
+  background: url("../img/san-francisco-2.jpg") center;
+  /*background-position: center;*/
 }
 
 h3 {
