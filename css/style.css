@@ -98,3 +98,7 @@ button {
 h1{
   margin-bottom: -9px;
 }
+
+h1, h3, p {
+  font-family: 'Raleway', sans-serif;
+}
